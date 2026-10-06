@@ -1,0 +1,13 @@
+#title_index /* Style of the Title on Index Page */
+{
+    font-family:Lucida Bright;
+    color: #f15a5a;
+    font-size: 30px;
+}
+
+#Name /* Style of the Name on Index Page */
+{
+    font-family:Goudy Old Style;
+    color: #ffeebe;
+    font-size: 20px;
+}
