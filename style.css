@@ -1,13 +1,36 @@
-#title_index /* Style of the Title on Index Page */
+h1
+/* Style of the Title on Index Page */
 {
-    font-family:Lucida Bright;
-    color: #f15a5a;
+    font-family: Edu NSW ACT Hand Cursive;
+    color: #8b2121;
     font-size: 30px;
 }
 
-#Name /* Style of the Name on Index Page */
+h4
+/* Style of the Name on Index Page */
+{
+    font-family:Lucida Bright;
+    color: #2435c9;
+    font-size: 20px;
+}
+
+#Welcome_Message /* Style of the Welcome Message on Index Page */
 {
     font-family:Goudy Old Style;
-    color: #ffeebe;
+    color: #db5252;
+    font-size: 20px;
+}
+
+#Get_Started_Button /* Style of the Get Started Button on Index Page */
+{
+    font-family:Lucida Bright;
+    color: #8013be;
+    font-size: 15px;
+}
+
+#Title_About /* Style of the Title on About Page */
+{
+    font-family:Bold Italic;
+    color: #2d9c68;
     font-size: 20px;
 }
