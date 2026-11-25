@@ -34,3 +34,56 @@ h4
     color: #2d9c68;
     font-size: 20px;
 }
+
+/* Hover effect for navigation links */
+#nav a:hover 
+{
+    color: white;
+    background-color: #2a8b21;
+}
+
+/* Hover effect for button */
+#Get_Started_Button:hover
+{
+    background-color: #8b2121;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+/* Flexbox navigation */
+#nav ul 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    div {
+        font-size: 16px;
+        text-align: center;
+    }
+}
+
+
+/* Tablets (600px and up) */
+@media only screen and (min-width: 600px) 
+{
+    div 
+    {
+        font-size: 20px;
+    }
+}
+
+/* Desktops(1024px and up) */
+@media only screen and (min-width: 1024px) 
+{
+    div 
+    {
+        padding: 20px;
+    }
+}
+
+
